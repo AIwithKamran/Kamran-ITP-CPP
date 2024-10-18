@@ -1,2 +1,2 @@
-# Kamran-ITP-C++
-This is going to be a deep dive in C++.
+# Let's Learn C++
+This repository is focused on helping students by providing resources and support for their academic journey, with a particular emphasis on learning C++. We offer guidance on C++ programming, problem-solving techniques, and project development. Alongside C++, we also provide tools for exam preparation, time management strategies, and skill-building resources to ensure students excel in their studies and develop essential programming expertise.
